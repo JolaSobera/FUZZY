@@ -1,0 +1,2 @@
+# FUZZY
+Fuzzy set
